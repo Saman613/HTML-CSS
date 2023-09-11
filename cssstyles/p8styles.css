@@ -1,0 +1,11 @@
+.button1{
+    color: deeppink;
+    border-radius: 40%;
+}
+.button2{
+    width: 100px;
+    border-color: aqua;
+}
+.button3{
+    padding: 20px;
+}

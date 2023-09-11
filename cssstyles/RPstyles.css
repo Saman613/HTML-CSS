@@ -1,0 +1,32 @@
+*{
+    background-color: antiquewhite;
+    margin: 20px 20px;
+}
+body{
+    background-image: url(./img_RP/20201231_135001.jpg);
+}
+.table{
+    align-items: center;
+}
+p1{
+    color: black;
+    background-color: deeppink;
+    width: 70px;
+    font-size: 50px;
+    font-weight: 500px;
+    font-style: italic;
+    font-family: 'Courier New';
+    padding: 10px 10px;
+    border: 10px;
+    border-radius: 40px;
+}
+.images1 img{
+    position: relative;
+    left:130px;
+    border: 30px aqua;
+    border-radius: 50px;
+    padding: 10px;
+}
+.images1 img:hover{
+    transform: scale(0.9);
+}
